@@ -1,0 +1,5 @@
+10:23:34.551 [main] INFO  AcademyE2E.HomePage - Driver is initialized
+10:24:08.522 [main] INFO  AcademyE2E.HomePage - home page is loaded 
+10:24:12.892 [main] INFO  AcademyE2E.HomePage - Successfully clicked
+10:24:15.169 [main] INFO  AcademyE2E.HomePage - home page is loaded 
+10:24:16.693 [main] INFO  AcademyE2E.HomePage - Successfully clicked
